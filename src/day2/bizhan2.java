@@ -7,5 +7,8 @@ public class bizhan2 {
         // I am looking very confortable working with intelliJ and git
         // some how it is not easy to learn
         // dedicate a lot of time to learn git
+
+        // are you a good person?
+
     }
 }
