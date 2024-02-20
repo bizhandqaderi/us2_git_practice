@@ -6,6 +6,9 @@ public class bizhan1 {
 
         System.out.println("Bizhan answered: I am fine. ");
 
+        System.out.println("New line is added to Bizhan1.java");
+
+
 
     }
 }
